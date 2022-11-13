@@ -12,3 +12,8 @@ Exercises from the book Python Machine Learning by Sebastian Raschka
 * Sklearn Perceptron
 * Sklearn Support Vector Machine
 * Sklearn Support Vector Machine Non-Linear
+* Sklearn Decision Tree
+* Sklearn Random Forest
+* Sklearn K Nearest Neighbors
+
+#### Chapter 4
