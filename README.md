@@ -9,3 +9,6 @@ Exercises from the book Python Machine Learning by Sebastian Raschka
 * Adaline Stochastic Gradient Descent
 
 #### Chapter 3
+* Sklearn Perceptron
+* Sklearn Support Vector Machine
+* Sklearn Support Vector Machine Non-Linear
