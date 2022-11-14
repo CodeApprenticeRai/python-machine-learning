@@ -17,3 +17,4 @@ Exercises from the book Python Machine Learning by Sebastian Raschka
 * Sklearn K Nearest Neighbors
 
 #### Chapter 4
+* Sklearn Feature Selection
